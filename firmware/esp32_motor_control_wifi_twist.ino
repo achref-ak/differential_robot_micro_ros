@@ -6,8 +6,8 @@
 #include <geometry_msgs/msg/twist.h>
 
 // WiFi Settings
- char* ssid = "iPhone de Achraf";
- char* password = "12345678m";
+ char* ssid = "ssid";
+ char* password = "password";
  char* agent_ip = "172.20.10.10";  // PC's IP
 const uint16_t agent_port = 8888;
 
